@@ -1,0 +1,14 @@
+.btnColor {
+    background-color: purple;
+}
+
+button {
+    background-color: purple;
+    border-color: purple;
+    color: white;
+    border-radius: 10px;
+}
+
+#choice-response {
+    color: gray;    
+}
